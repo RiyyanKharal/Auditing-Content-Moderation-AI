@@ -13,10 +13,7 @@ This project implements a toxicity detection system using DistilBERT fine-tuned 
 ### System Requirements
 
 **Hardware:**
-- GPU: NVIDIA T4 (16GB VRAM) or equivalent
-- RAM: 16GB minimum
-- Storage: 10GB free space2. Install Dependencies
-bash
+- T4 GPU colab
 
 pip install -r requirements.txt
 
